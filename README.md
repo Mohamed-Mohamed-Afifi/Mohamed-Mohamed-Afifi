@@ -56,7 +56,7 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-mohamed-afifi&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Mohamed-Afifi&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
 </p>
 
 ---
@@ -65,7 +65,5 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Mohamed-Mohamed-Afifi?tab=repositories">
-    <img alt="Mohamed Afifiy's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohamed-Mohamed-Afifi&bg_color=0d1117&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Mohamed%20Afifiy's%20Contribution%20Graph" />
-  </a>
-</p>
+    <img alt="Mohamed Afifiy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Mohamed-Afifi&bg_color=0d1117&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Mohamed%20Afifiy's%20Con
 <br/>
