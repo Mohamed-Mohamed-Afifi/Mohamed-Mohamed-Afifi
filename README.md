@@ -59,7 +59,7 @@
 ----
 <summary><b>⚡ Git profile Trophies</b></summary>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-mohamed-afifi&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-mohamed-afifi&layout=compact&theme=algolia" /></a> </p>
 
 ----
 
