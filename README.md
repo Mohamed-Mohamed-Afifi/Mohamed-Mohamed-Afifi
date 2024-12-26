@@ -9,7 +9,7 @@
 
 - :school: I am a `Computer Science Student` from Faculty of Electronic Engineering at Menoifa University
 - 🔭 I’m currently working on [AmaZon Application](https://github.com/Mohamed-Mohamed-Afifi/Amazon-clone)
-- 🌱 I’m currently learning `React js`
+- 🌱 I’m currently learning `Spring boot for back-end`
 - 📫 How to reach me **mohamed.org050@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1wq0xjFaytSCwOG0Sac_EJQsw9Eg1E4nF/view?usp=sharing).
 - :nerd_face: Always `learning new things`
