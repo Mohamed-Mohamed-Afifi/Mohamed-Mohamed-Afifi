@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Afifiy</h1>
-<h3 align="center">Interested in Web Development [React js] and Deep learning</h3>
+<h3 align="center">Interested in Java back-end and react js </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
 		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
