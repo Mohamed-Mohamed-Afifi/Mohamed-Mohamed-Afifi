@@ -12,7 +12,7 @@
 - 🎓 **Computer Science Student** at Faculty of Electronic Engineering, Menoufia University.  
 - 🔭 Currently working on [Amazon Clone](https://github.com/Mohamed-Mohamed-Afifi/Amazon-clone).  
 - 🌱 Learning `Spring Boot` for Back-end Development.  
-- 💼 Open for **Internships** and **Job Opportunities**: [My Resume](https://drive.google.com/file/d/1wq0xjFaytSCwOG0Sac_EJQsw9Eg1E4nF/view?usp=sharing).  
+- 💼 Open for **Internships** and **Job Opportunities**: [My Resume](https://flowcv.com/resume/mhb4kqhr).  
 - 🧠 Passionate about **learning new technologies** and **creating impactful projects**.  
 - 🐼 Always striving to be the best version of myself.  
 
