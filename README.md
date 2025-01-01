@@ -21,7 +21,7 @@
 ## 📬 Connect with Me:
 <p align="center">
   <a href="mailto:mohamed.org050@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://leetcode.com/u/Mohamed-Mohamed-Afifi/" title="LeetCode"><img src="https://img.shields.io/badge/Leetcode-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Leetcode"></a>
+  <a href="https://leetcode.com/u/Mohamed-Mohamed-Afifi/" title="LeetCode"><img src="https://img.shields.io/badge/Leetcode-%231877F2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
   <a href="https://www.linkedin.com/in/mohamed-afify-274b4a224/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
