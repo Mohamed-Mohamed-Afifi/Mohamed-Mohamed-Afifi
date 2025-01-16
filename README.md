@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamed-mohamed-afifi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mohamed-mohamed-afifi?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+<!--   <img src="https://img.shields.io/github/followers/mohamed-mohamed-afifi?label=Followers&style=flat&color=0e75b6" alt="Followers" /> -->
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
