@@ -46,12 +46,10 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mohamed-afifi&theme=tokyonight_duo" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-mohamed-afifi&show_icons=true&count_private=true&theme=tokyonight&layout=compact" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mohamed-afifi&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" height="180px"/>
-</p>
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
 
 ---
 
