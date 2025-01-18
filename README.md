@@ -59,6 +59,11 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Mohamed-Afifi&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
 </p>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
+    <a/> <!-- Snake -->
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
 
 ---
 
