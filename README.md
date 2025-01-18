@@ -63,8 +63,6 @@
 ---
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
----
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
