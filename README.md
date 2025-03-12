@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 **Computer Science Student** at Faculty of Electronic Engineering, Menoufia University.  
-- 🔭 Currently working on Tilda.  
+- 🔭 Currently working at Tilda.  
 - 🌱 Learning `Spring Boot` for Back-end Development.   
 - 🧠 Passionate about **learning new technologies** and **creating impactful projects**.  
 - 🐼 Always striving to be the best version of myself.  
