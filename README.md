@@ -10,7 +10,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
 
 ### 👨‍💻 About Me:
-- 🎓 **Computer Science Student** at Faculty of Electronic Engineering, Menoufia University.  
+- 🎓 **Computer Science graduate** at Faculty of Electronic Engineering, Menoufia University.  
 - 🔭 Currently working at Tilda.  
 - 🌱 Learning `Spring Boot` for Back-end Development.   
 - 🧠 Passionate about **learning new technologies** and **creating impactful projects**.  
