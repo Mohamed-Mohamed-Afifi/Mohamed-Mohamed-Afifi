@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 **Computer Science Student** at Faculty of Electronic Engineering, Menoufia University.  
-- 🔭 Currently working on [Amazon Clone](https://github.com/Mohamed-Mohamed-Afifi/Amazon-clone).  
+- 🔭 Currently working on Tilda.  
 - 🌱 Learning `Spring Boot` for Back-end Development.  
 - 💼 Open for **Internships** and **Job Opportunities**: [My Resume](https://flowcv.com/resume/mhb4kqhrgn).  
 - 🧠 Passionate about **learning new technologies** and **creating impactful projects**.  
