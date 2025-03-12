@@ -12,8 +12,7 @@
 ### 👨‍💻 About Me:
 - 🎓 **Computer Science Student** at Faculty of Electronic Engineering, Menoufia University.  
 - 🔭 Currently working on Tilda.  
-- 🌱 Learning `Spring Boot` for Back-end Development.  
-- 💼 Open for **Internships** and **Job Opportunities**: [My Resume](https://flowcv.com/resume/mhb4kqhrgn).  
+- 🌱 Learning `Spring Boot` for Back-end Development.   
 - 🧠 Passionate about **learning new technologies** and **creating impactful projects**.  
 - 🐼 Always striving to be the best version of myself.  
 
