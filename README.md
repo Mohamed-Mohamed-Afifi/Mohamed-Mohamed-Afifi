@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHbD6f5zNSs3w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690052356563?e=2147483647&v=beta&t=shp3nWfqgozR594qlpqJraUTA21Mj-EeY-dADtmDUwY)
 <h1 align="center">Hi 👋, I'm Mohamed Afifiy</h1>
-<h3 align="center">Java Back-end & React.js Developer</h3>
+<h3 align="center">Java Back-end & React.js Developer & CRM Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamed-mohamed-afifi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,8 +11,9 @@
 
 ### 👨‍💻 About Me:
 - 🎓 **Computer Science graduate** at Faculty of Electronic Engineering, Menoufia University.  
-- 🔭 Currently working at Tilda.  
-- 🌱 Learning `Spring Boot` for Back-end Development.   
+- 🔭 Currently working at **Vodafone**.  
+- 🌱 Learning `Spring Boot` for Back-end Development.
+- 🌱 Learning `CRM Seible`.
 - 🧠 Passionate about **learning new technologies** and **creating impactful projects**.  
 - 🐼 Always striving to be the best version of myself.  
 
